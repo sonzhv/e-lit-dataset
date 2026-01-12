@@ -63,3 +63,18 @@ pit-stop 3
 ### Selection Methodology Constraints
 - **Single Searcher**: Compiled by one researcher with particular interests and expertise
 - **Missing Fields**: Some columns (like interaction_level, textuality) required inference rather than explicit documentation
+
+## Data Dictionary Note
+
+No separate data dictionary file was created because:
+1. All column meanings and controlled values are explained in the "Data Model" section above
+2. No formal controlled vocabulary was established beyond the categorical values described
+3. Most values (interaction_level, textuality, etc.) were inferred from work analysis rather than pre-defined
+
+Key categorical values used:
+- **interaction_level**: none / low / medium / high (based on user input required)
+- **textuality**: linear / non-linear / modular / database-like (based on narrative structure)
+- **preservation_status**: live / archived / partially broken / inaccessible (based on URL testing)
+- **versioning**: stable / updated / multiple versions / unclear (based on development activity)
+
+These categories were developed iteratively during analysis rather than as a pre-defined schema.
