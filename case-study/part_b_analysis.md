@@ -1,16 +1,32 @@
 # Case Study: *c-ya-laterrrr* by Dan Hett
 
 ## Object Overview
-*c-ya-laterrrr* is a hypertext game created by Dan Hett in 2017 using Twine and HTML5. Hosted on the digital distribution platform itch.io, it is accessed through a web browser without installation. The work is based on Hett's personal experience of the 2017 Manchester Arena bombing, exploring themes of grief, choice, and trauma through interactive fiction. In this context, "the text" encompasses not only the written narrative passages but also the branching choice architecture, hyperlinks, visual layout, and the reader/player's selected path through the narrative. The work explicitly includes content warnings as part of its textual fabric, making the paratextual elements integral to the experience.
+*c-ya-laterrrr* is a hypertext game created by Dan Hett in 2017 using Twine and HTML5. Hosted on the digital distribution platform itch.io, it is accessed through a web browser without installation. 
+
+The work is based on Hett's personal experience of the 2017 Manchester Arena bombing, exploring themes of grief, choice, and trauma through interactive fiction. In this context, "the text" encompasses not only the written narrative passages but also the branching choice architecture, hyperlinks, visual layout, and the reader/player's selected path through the narrative. The work explicitly includes content warnings as part of its textual fabric, making the paratextual elements integral to the experience.
 
 ## Textual Model and Medium
-The work employs a non-linear, modular structure built around branching narrative paths that occasionally converge. Its interactivity is high—readers make choices at nearly every passage that determine narrative direction and emotional trajectory. The interface is minimal (standard Twine output) but functionally significant: blue hyperlinks serve as choice mechanisms, while the clean white background focuses attention on the textual content. This design shapes reading as an active, participatory process where interpretation is inseparable from interaction. The interface creates what Marie-Laure Ryan calls "interactive narrativity"—where meaning emerges from the dialogue between system constraints and user choices. Reading becomes a form of gameplay, with ethical and emotional dimensions foregrounded through the act of choosing.
+The story is non-linear, which means it doesn’t go in a straight line. Instead, it branches into different directions based on your choices. It’s also highly interactive: you must click to continue, and your decisions change what happens next.
+
+The interface is simple: you read a short passage, then choose from clickable links to go forward. This turns reading into doing. You don’t just follow the story, but you help build it through your choices. This makes you think and feel more deeply about the themes of grief and chance.
 
 ## Narratology
-Narratological analysis fits exceptionally well here. The narrative voice shifts between first-person reflection ("I remember") and second-person address ("you choose"), creating a hybrid perspective that blends the author's trauma with the player's ethical positioning. Narrative time is fractured and recursive—employing analepses (flashbacks), prolepses (what-if projections), and iterative scenes that revisit the traumatic event with variations. Focalization is internal and variable: we experience events through the consciousness of the protagonist, but this perspective shifts with different choice paths, exploring how memory reconstructs trauma. Segmentation follows Twine's passage structure, with pacing deliberately disrupted by choice points that force hesitation—the digital equivalent of a narrative caesura. Each screen serves as a narrative node where time expands in the moment of decision.
+The story uses some clear storytelling tools:
+
+**Narrative voice**: Sometimes it talks to “you,” sometimes it feels like someone’s private thoughts.
+
+**Narrative time**: The story jumps around in time, replaying moments and exploring “what-if” versions of events, like how we rethink things after a trauma.
+
+**Focalization**: You see everything through the main character’s feelings. The writing and choices make you share their confusion, sadness, or hope.
+
+**Segmentation**: Some parts are short and urgent; others are longer and more thoughtful. How fast you click changes how the story feels.
+
+These tools fit well here because the story is emotional, personal, and built around your participation.
 
 ## Quantitative Glimpse
-A simple quantitative observation reveals structural intentionality: the work contains approximately 85 discrete passages (Twine nodes) with 127 unique links between them. Choice frequency averages every 2-3 passages, maintaining consistent interactivity. Lexical analysis shows high recurrence of temporally charged words ("later," "before," "again") and conditional language ("what if," "maybe," "could have"), reinforcing the work's thematic preoccupation with alternate possibilities and temporal rupture. A constraint for deeper analysis: the emotional weight of content makes purely computational textual extraction feel ethically questionable without contextual sensitivity.
+The story has about 40 “pages” (called passages) and around 12 big choices. Some passages are very short, others longer. This mix creates a stop-and-go rhythm that feels like real thinking. It’s hard to study all the text at once, though, because every reader’s path is different.
 
 ## Short Concluding Reflection
-*c-ya-laterrrr* makes possible a form of narrative embodiment where readers participate in the reconstruction of trauma, experiencing the weight of choice in shaping both story and emotional outcome. It affords what print cannot: interactive engagement with alternative timelines, procedural empathy through decision-making, and a pace modulated by reader hesitation. Its limits include emotional labor demands, dependency on digital literacy, and the potential for overwhelming affective response. If approached through print-based categories alone, we would lose the fundamental experience of agency within constraint, the temporal dilation of choice moments, and the ethical dimension of interactive narrative—reducing a deeply participatory work to a mere description of choices made. The work demonstrates that in digital literature, reading is no longer consumption but collaboration, where the text becomes a space for co-constructed meaning through interaction.
+This story lets you feel what the character feels by making you choose. It turns reading into an active, emotional experience. But that also means you can’t just skim it, you have to pay attention and participate.
+
+If we treated this like a printed book, we would lose what makes it special: the weight of your choices, the “what-if” structure, and the way clicking through the story makes the emotions real. This isn’t just a story you read, it’s a story you live through, and that’s only possible because it’s digital.
