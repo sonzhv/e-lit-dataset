@@ -20,13 +20,13 @@ pit-stop 3
 - **id**: Unique identifier for database management and cross-referencing
 - **title**: The work's title as it appears publicly
 - **creator**: Attribution following the work's preferred naming conventions
-- **year**: Creation/publication year for temporal contextualization
+- **year**: Publication year
 
 ### Access and Technical Information
 - **url**: Primary access point for experiencing the work
-- **access_date**: When the URL was verified (important for link rot tracking)
-- **type**: Genre classification based on digital literature taxonomies
-- **technology**: Technical stack (crucial for preservation and emulation planning)
+- **access_date**: When the URL was verified
+- **type**: Genre classification
+- **technology**: Technical stack
 - **language**: Language(s) of the primary interface/narrative
 
 ### Analytical Categories
@@ -36,8 +36,8 @@ pit-stop 3
 - **preservation_status**: Current accessibility (live/archived/partially broken/inaccessible)
 
 ### Source and Rights
-- **metadata_source**: Primary documentation source (ELO in this case)
-- **license**: Copyright/licensing information for fair use analysis
+- **metadata_source**: Primary documentation source (I chose ELO)
+- **license**: Copyright/licensing information
 - **one_sentence_description**: Concise summary for quick reference
 
 ## Known Limitations and Biases
@@ -45,49 +45,21 @@ pit-stop 3
 ### Language Bias
 - **Dominance of English**: While multilingual works are included, English remains the primary language of interface and documentation
 - **Translation Gaps**: Non-English works often lack comprehensive metadata in other languages
-- **Roman Script Preference**: Most works use Roman alphabet systems
+- **Roman Script Preference**: Works use Roman alphabet systems
 
 ### Platform and Technical Bias
-- **Web-Centric Focus**: Most works are browser-based, underrepresenting native applications, installations, and physical computing works
-- **"Survivorship Bias"**: Works preserved digitally are overrepresented compared to ephemeral or site-specific works
-- **Accessibility Gaps**: Works requiring specific plugins, hardware, or proprietary software may be excluded or marked as inaccessible
+- **Web-Centric Focus**: Works are browser-based, underrepresenting native applications, installations, and physical computing works
+- **Accessibility Gaps**: I didn't include works requiring specific plugins, hardware, or proprietary software
 
 ### Temporal and Geographic Biases
-- **21st Century Focus**: Most works post-date 2000, with fewer examples from earlier periods of electronic literature
+- **21st Century Focus**: Works post-date 2000
 - **Western Institutional Influence**: Strong representation from North American and European academic/artistic contexts
-- **ELO-Centric**: Heavy reliance on Electronic Literature Organization's collections
 
 ### Discoverability Limitations
 - **Institutional Affiliation**: Works from academic contexts are more discoverable than independent or community-based works
 - **Publication Bias**: Works with scholarly documentation are overrepresented
-- **Metadata Inconsistency**: Variable completeness of fields across entries
 - **Link Rot**: Digital preservation challenges mean some URLs may become inactive after data collection
 
 ### Selection Methodology Constraints
 - **Single Searcher**: Compiled by one researcher with particular interests and expertise
-- **Time-Bound Collection**: Captures a snapshot of accessible works as of early 2026
-- **Definitional Boundaries**: The category "electronic literature" itself carries historical and disciplinary assumptions
 - **Missing Fields**: Some columns (like interaction_level, textuality) required inference rather than explicit documentation
-
-## Remediation Strategies for Future Work
-
-To address these limitations in future iterations:
-1. **Multilingual Metadata Collection**: Partner with scholars across language communities
-2. **Broader Platform Inclusion**: Actively seek non-web-based works
-3. **Decolonial Approaches**: Prioritize works from underrepresented regions and creators
-4. **Community Sourcing**: Develop participatory methods for work nomination and description
-5. **Preservation Partnerships**: Collaborate with archives to document at-risk works
-6. **Explicit Methodology**: Document selection decisions and gaps transparently
-
-## Intended Uses
-
-This dataset supports:
-- Digital humanities pedagogy and curriculum development
-- Comparative analysis of electronic literature forms
-- Preservation tracking and risk assessment
-- Platform and technology trend analysis
-- Fair use and copyright education in digital contexts
-
-## Acknowledgments
-
-Primary metadata sourced from the Electronic Literature Organization's collections and public documentation. License information verified through direct source examination where possible. Descriptive summaries synthesized from creator statements and critical literature.
