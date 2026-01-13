@@ -6,7 +6,7 @@
 The work is based on Hett's personal experience of the 2017 Manchester Arena bombing, exploring themes of grief, choice, and trauma through interactive fiction. In this context, "the text" encompasses not only the written narrative passages but also the branching choice architecture, hyperlinks, visual layout, and the reader/player's selected path through the narrative. The work explicitly includes content warnings as part of its textual fabric, making the paratextual elements integral to the experience.
 
 ## Textual Model and Medium
-The story is non-linear, which means it doesn’t go in a straight line. Instead, it branches into different directions based on your choices. It’s also highly interactive: you must click to continue, and your decisions change what happens next.
+The story is non-linear. Instead, it branches into different directions based on your choices. It’s also highly interactive: you must click to continue, and your decisions change what happens next.
 
 The interface is simple: you read a short passage, then choose from clickable links to go forward. This turns reading into doing. You don’t just follow the story, but you help build it through your choices. This makes you think and feel more deeply about the themes of grief and chance.
 
@@ -29,4 +29,4 @@ The story has about 40 “pages” (called passages) and around 12 big choices. 
 ## Short Concluding Reflection
 This story lets you feel what the character feels by making you choose. It turns reading into an active, emotional experience. But that also means you can’t just skim it, you have to pay attention and participate.
 
-If we treated this like a printed book, we would lose what makes it special: the weight of your choices, the “what-if” structure, and the way clicking through the story makes the emotions real. This isn’t just a story you read, it’s a story you live through, and that’s only possible because it’s digital.
+If we treated this like a printed book, we would lose what makes it special: the weight of your choices, the “what-if” structure, and the way clicking through the story makes the emotions real. The work is not only read but actively experienced through the reader’s participation in its interactive structure, and that’s only possible because it’s digital.
